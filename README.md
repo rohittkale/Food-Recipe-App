@@ -2,6 +2,8 @@
 
 A modern, responsive recipe management web application built with React 18 and Vite. Discover, organize, and manage your favorite recipes with an intuitive interface and powerful search capabilities.
 
+---
+
 ## 🚀 Features
 
 ### Core Functionality
@@ -11,13 +13,15 @@ A modern, responsive recipe management web application built with React 18 and V
 - **Recipe Details**: View detailed instructions, ingredients, and cooking information
 - **Add Custom Recipes**: Create and save your own recipes with ingredients and instructions
 - **Rating System**: View recipe ratings and difficulty levels
-
+- 
 ### User Experience
 - **Responsive Design**: Optimized for desktop, tablet, and mobile devices
 - **Modern UI**: Glassmorphism effects with smooth animations
 - **Interactive Elements**: Hover effects, modals, and micro-interactions
 - **Real-time Updates**: Dynamic filtering and search results
 - **Clean Interface**: Intuitive navigation and user-friendly design
+
+---
 
 ## 🛠️ Tech Stack
 
@@ -26,6 +30,8 @@ A modern, responsive recipe management web application built with React 18 and V
 - **Styling**: CSS3 with modern features (Grid, Flexbox, Animations)
 - **Icons**: Font Awesome 6
 - **Fonts**: Google Fonts (Poppins)
+
+---
 
 ## 📁 Project Structure
 
@@ -56,6 +62,7 @@ recipe-app/
 │       └── recipes.js        # Sample recipe data
 └── README.md
 ```
+---
 
 ## 🚀 Getting Started
 
@@ -84,27 +91,18 @@ recipe-app/
 4. **Open your browser**
    Navigate to http://localhost:5173 to view the application
 
-### Building for Production
+---
 
-```bash
-npm run build
-```
-
-The built files will be in the `dist/` directory.
-
-### Preview Production Build
-
-```bash
-npm run preview
-```
-
-## 📱 Screenshots
+## 📸 Screenshot
 
 ### Home Page
 ![Home Page](https://github.com/rohittkale/Food-Recipe-App/blob/ab0e44b8e96418de147924b259654e7cce11bfa5/public/Home.png)
 
 ### Recipe Details
 ![Add New Recipe](https://github.com/rohittkale/Food-Recipe-App/blob/ab0e44b8e96418de147924b259654e7cce11bfa5/public/Add_New_Recipe.png)
+
+---
+
 ## 🎯 Usage
 
 ### Searching Recipes
@@ -130,6 +128,8 @@ npm run preview
 - See complete ingredient list and cooking instructions
 - View recipe metadata (time, servings, difficulty, rating)
 
+---
+
 ## 🔧 Customization
 
 ### Adding New Categories
@@ -143,6 +143,8 @@ The component-based architecture makes it easy to add new features:
 - Create new components in `src/components/`
 - Add corresponding CSS files in `src/styles/`
 - Import and use in `App.jsx`
+
+---
 
 ## 🌟 Key Features Implemented
 
@@ -165,11 +167,15 @@ The component-based architecture makes it easy to add new features:
 - **Gradient backgrounds** and **box shadows**
 - **Responsive design** with media queries
 
+---
+
 ## 🐛 Known Issues
 
 - Recipe images are currently from external URLs (Unsplash)
 - No persistent storage (data resets on page refresh)
 - Limited to client-side functionality
+
+---
 
 ## 🚀 Future Enhancements
 
@@ -182,6 +188,8 @@ The component-based architecture makes it easy to add new features:
 - [ ] Add nutrition information
 - [ ] Include cooking timers
 
+---
+
 ## 🤝 Contributing
 
 1. Fork the repository
@@ -190,33 +198,11 @@ The component-based architecture makes it easy to add new features:
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-## 📝 License
+---
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 👨‍💻 Author
-
-**Your Name**
-- GitHub: [@yourusername](https://github.com/yourusername)
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)
-- Email: your.email@example.com
-
-## 🙏 Acknowledgments
-
-- [React](https://reactjs.org/) - The web framework used
-- [Vite](https://vitejs.dev/) - Build tool and development server
-- [Font Awesome](https://fontawesome.com/) - Icons
-- [Google Fonts](https://fonts.google.com/) - Typography
-- [Unsplash](https://unsplash.com/) - Recipe images
-
-## 📊 Project Stats
-
-- **Lines of Code**: ~1,500+
-- **Components**: 7 React components
-- **CSS Files**: 7 styled components
-- **Features**: 10+ core features
-- **Responsive**: Mobile, Tablet, Desktop
-- **Performance**: Fast loading with Vite
+## 🙋‍♂️ Author
+Name: Rohit Pran Kale<br>
+Mail: kalerohit1912@gmail.com
 
 ---
 
