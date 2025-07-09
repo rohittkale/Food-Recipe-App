@@ -1,8 +1,6 @@
-# Recipe Master 🍳
+# 🍳 Recipe Master – Food Recipe Management App 
 
 A modern, responsive recipe management web application built with React 18 and Vite. Discover, organize, and manage your favorite recipes with an intuitive interface and powerful search capabilities.
-
-![Recipe Master Demo](https://via.placeholder.com/800x400/667eea/ffffff?text=Recipe+Master+Demo)
 
 ## 🚀 Features
 
@@ -84,7 +82,7 @@ recipe-app/
    ```
 
 4. **Open your browser**
-   Navigate to `http://localhost:5173` to view the application
+   Navigate to http://localhost:5173 to view the application
 
 ### Building for Production
 
@@ -103,17 +101,10 @@ npm run preview
 ## 📱 Screenshots
 
 ### Home Page
-![Home Page](https://via.placeholder.com/800x500/667eea/ffffff?text=Home+Page+Screenshot)
+![Home Page](https://github.com/rohittkale/Food-Recipe-App/blob/ab0e44b8e96418de147924b259654e7cce11bfa5/public/Home.png)
 
 ### Recipe Details
-![Recipe Details](https://via.placeholder.com/800x500/667eea/ffffff?text=Recipe+Details+Modal)
-
-### Add Recipe Form
-![Add Recipe](https://via.placeholder.com/800x500/667eea/ffffff?text=Add+Recipe+Form)
-
-### Mobile View
-![Mobile View](https://via.placeholder.com/400x600/667eea/ffffff?text=Mobile+Responsive+View)
-
+![Add New Recipe](https://github.com/rohittkale/Food-Recipe-App/blob/ab0e44b8e96418de147924b259654e7cce11bfa5/public/Add_New_Recipe.png)
 ## 🎯 Usage
 
 ### Searching Recipes
